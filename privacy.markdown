@@ -44,15 +44,14 @@ Promise Subheading 7: Respect user privacy — keep it user-centric
 Promise Point 7: It’s about you. We support strong privacy principles, appropriate
   notice and a privacy experience that’s actually human.
 Promise Heading 2: Our Privacy Policy
-Second Segment Text: |-
-  This privacy policy tells you how we collect and use information.
-
-  The term “Personal Information” in this privacy policy means any information from which your identity is apparent or can be reasonably ascertained.
-
-  You can visit our website without telling us who you are or revealing other Personal Information.
+Second Segment Text: "This privacy policy tells you how we collect, protect and use
+  information.\n\nThe term “Personal Information” in this privacy policy means any
+  information from which your identity is apparent or can be reasonably ascertained.\n\nThe
+  good news is you can visit our website without telling us who you are or revealing
+  other Personal Information as our analytics are setup to 'do not track' by default. "
 Info Title 1: Scope
-Info 1: The purpose of greaterthanexperience.design is to provide relevant and valuable
-  information regarding our research, design, and strategy services.
+Info 1: The purpose of greaterthanexperience.design is to provide relevant information
+  regarding our research, design, and strategy services.
 Info Tooltip 1: We want to show off what we're capable of.
 Info Title 2: Personal information
 Info 2: If you choose to contact us we will collect the email address you nominate
@@ -74,19 +73,29 @@ Info 4 Text: |-
   Privacy by Design principles are core to our business. We train our team members about the importance of maintaining the privacy and security of your information. Access to your Personal Information is restricted to employees who need it to provide benefits or services to you.
 Info Tooltip 4: We take security seriously.
 Info Title 5: Duration
-Info 5: Personal data that is shared with us via our contact form will be securely
-  stored and deleted once it is no longer needed for us to fulfill the purpose of
-  our business.
+Info 5: 'Personal data that is shared with us via our contact form will be securely
+  stored and deleted once it is no longer needed for us to fulfil the purpose of our
+  business.  '
 Info Tooltip 5: We don’t hoard your data.
 Info Title 6: Website analytics
-Info 6 Text: |-
-  To help understand the content and interactions that provide value to greaterthanexperience.design’s website visitors, our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States.
-
-  Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to draw inferences about the value and relevancy of our content and website interactions so that we can more effectively deliver a suitable experience to website visitors. We also conduct ongoing face-to-face and remote research with willing participants to ensure our website experience meets the expectation of our visitors.
-
-  If you do no grant your consent for us to make use of the Google analytics service, you can [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout){:target="_blank"} by disabling or refusing cookies, disabling JavaScript, or using the opt-out service provided by Google.
-
-  Greaterthanexperience.design also publishes content via social media sites such as Facebook, LinkedIn, Twitter, and others. If you choose to "like" or "share" information from this website through these services, you should review the privacy policy of that service prior to doing so.
+Info 6 Text: "Before getting into why we have an analytics function we think it's
+  important you know we 'do not track' by default. \n\nOur website uses Google Analytics.
+  This helps us better understand how people are interacting with our content. We
+  use reports provided by Google Analytics to draw inferences about the value and
+  relevancy of our content and website interactions so that we can more effectively
+  deliver a suitable experience to website visitors. We also conduct ongoing face-to-face
+  and remote research with willing participants to ensure our website experience meets
+  the expectation of our visitors.\n\nGoogle Analytics transmits website traffic data
+  to Google servers in the United States.Google Analytics does not identify individual
+  users or associate your IP address with any other data held by Google. \n\nRemember,
+  we 'do not track' by default. If you do no grant your consent for us to make use
+  of the Google analytics service please  refuse or cookie policy, or leave it alone
+  entirely. You can also [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout){:target=\"_blank\"}
+  directly by disabling or refusing cookies, disabling JavaScript, or using the opt-out
+  service provided by Google.\n\nGreaterthanexperience.design also publishes content
+  via social media sites such as Facebook, LinkedIn, Twitter, and others. If you choose
+  to \"like\" or \"share\" information from this website through these services, you
+  should review the privacy policy of that service prior to doing so."
 Info Tooltip 6: We are always trying to learn and get better at what we do. We will
   not compromise your privacy to do this.
 Info Title 7: Our obligations
